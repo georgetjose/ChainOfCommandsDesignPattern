@@ -1,1 +1,1 @@
-# ChainOfCommandsDesignPattern
+# ChainOfCommandsResponsibilityPattern
